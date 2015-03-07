@@ -1,5 +1,9 @@
 package edu.berkeley.aep;
 
+public class Useless {
+    
+}
+
 // Understands an amount in a given scaled unit
 public class Quantity {
     protected final int size;
